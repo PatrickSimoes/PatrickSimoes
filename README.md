@@ -15,7 +15,7 @@
 Sou desenvolvedor fullstack com mais de **4 anos** construindo sistemas em produção, da modelagem de banco e APIs REST até interfaces responsivas e aplicativos mobile. Gosto de arquitetura limpa, *type safety* e entregar produto que resolve problema de verdade.
 
 - 🎓 Cursando **Engenharia da Computação** na Descomplica *(2022–2026)*
-- 🌎 Baseado em **Curitiba/PR**, aberto a vagas **CLT, PJ e remoto internacional**
+- 🌎 Moro em **Curitiba/PR**, aberto a vagas **CLT, PJ e remoto internacional**
 
 ---
 
@@ -89,9 +89,6 @@ Se quiser trocar uma ideia, contratar ou colaborar em algo interessante, cola co
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://github.com/PatrickSimoes" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 </div>
 
