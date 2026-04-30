@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor fullstack com mais de **4 anos** construindo sistemas em produção — da modelagem de banco e APIs REST até interfaces responsivas e aplicativos mobile. Gosto de arquitetura limpa, *type safety* e entregar produto que resolve problema de verdade.
+Sou desenvolvedor fullstack com mais de **4 anos** construindo sistemas em produção, da modelagem de banco e APIs REST até interfaces responsivas e aplicativos mobile. Gosto de arquitetura limpa, *type safety* e entregar produto que resolve problema de verdade.
 
 - 🎓 Cursando **Engenharia da Computação** na Descomplica *(2022–2026)*
 - 🌎 Baseado em **Curitiba/PR**, aberto a vagas **CLT, PJ e remoto internacional**
